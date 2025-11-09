@@ -1,5 +1,5 @@
 # Leo Nanevski - Professional 'README'
-**Contact:** +389 75 468 393 | leo_nanevski_87@hotmail.com | [linkedin.com/in/leo-nanevski/](https://linkedin.com/in/leo-nanevski/)
+**Contact:** +389 75 468 393 | leo_nanevski_87@hotmail.com | linkedin.com/in/leo-nanevski/
 
 ---
 
@@ -43,57 +43,49 @@ SOP & Process Improvement Domain Expertise    Expert (12+ Yrs)
 Stakeholder Communication Domain Expertise    Expert (12+ Yrs)
 */
 
-Education & Technical Training
-Azure Microsoft Cloud Administrator (In-Progress, 2024-2025)
+---
 
-Semos Education
+### Education & Technical Training
 
-ITOSE - IT Operations and Support Engineer (Class of 2024)
+* **Azure Microsoft Cloud Administrator** (In-Progress, 2024-2025)
+    * *Semos Education*
+* **ITOSE - IT Operations and Support Engineer** (Class of 2024)
+    * *Qinshift (formerly Seavus, SEDC)*
+    * *Core Tech:* Linux, **MS SQL**, Networking, **Microsoft Azure**, Docker, Shell Scripts.
+* **Academy for Web Development** (Class of 2022-2023)
+    * *Qinshift (formerly Seavus, SEDC)*
+    * *Core Tech:* **C#**, **SQL**, **ASP.NET Web APIs**, JavaScript, HTML, CSS.
+* **University of St. Cyril and Methodius | Faculty of Psychology** (Class of 2008)
 
-Qinshift (formerly Seavus, SEDC)
+---
 
-Core Tech: Linux, MS SQL, Networking, Microsoft Azure, Docker, Shell Scripts.
+### Professional Experience (The Foundation)
 
-Academy for Web Development (Class of 2022-2023)
+#### `// --- My IT Career ---`
 
-Qinshift (formerly Seavus, SEDC)
+**INVOLVE Development (Olion) | Data Entry & Tech. and Customer Support Specialist** (2025–Current)
+* My first dedicated IT role. I'm the first point of contact for technical support, managing issues via Jira.
+* I apply structured problem-solving to diagnose application issues, document bugs, and escalate to senior engineers.
 
-Core Tech: C#, SQL, ASP.NET Web APIs, JavaScript, HTML, CSS.
+#### `// --- My Logistics Career (Where I was the "IT Bridge") ---`
 
-University of St. Cyril and Methodius | Faculty of Psychology (Class of 2008)
+**TAV Airports Macedonia | Customs Clearance, Operations Agent** (2022–2024)
+* Led a 24/7 air cargo ops team. I was the primary **escalation point for all operational incidents**, coordinating with customs, vendors, and internal teams to troubleshoot and restore service.
+* Developed and enforced Standard Operating Procedures (SOPs) for incident handling.
 
-Professional Experience (The Foundation)
-// --- My IT Career ---
-INVOLVE Development (Olion) | Data Entry & Tech. and Customer Support Specialist (2025–Current)
+**DHL Express Macedonia | Customs Clearance, GTW OPS Agent** (2019–2022)
+* Was selected as the subject-matter expert (SME) to **support the company-wide implementation of the new web-based customs system (CDEPS)**.
+* Acted as the liaison between the operations team and the IT/implementation team, helping train colleagues and validate the new workflows.
 
-My first dedicated IT role. I'm the first point of contact for technical support, managing issues via Jira.
+**Viator & Vector | Custom Forwarding Agent / Commercialist** (2012–2019)
+* Acted as the local power user and **first-line support for the customs operations software (ASYCUDA)**.
+* Played a key role in the **planning and transition to the new CDEPS system**, providing the user-side expertise to make the project work.
 
-I apply structured problem-solving to diagnose application issues, document bugs, and escalate to senior engineers.
+---
 
-// --- My Logistics Career (Where I was the "IT Bridge") ---
-TAV Airports Macedonia | Customs Clearance, Operations Agent (2022–2024)
+### Earlier Career
 
-Led a 24/7 air cargo ops team. I was the primary escalation point for all operational incidents, coordinating with customs, vendors, and internal teams to troubleshoot and restore service.
-
-Developed and enforced Standard Operating Procedures (SOPs) for incident handling.
-
-DHL Express Macedonia | Customs Clearance, GTW OPS Agent (2019–2022)
-
-Was selected as the subject-matter expert (SME) to support the company-wide implementation of the new web-based customs system (CDEPS).
-
-Acted as the liaison between the operations team and the IT/implementation team, helping train colleagues and validate the new workflows.
-
-Viator & Vector | Custom Forwarding Agent / Commercialist (2012–2019)
-
-Acted as the local power user and first-line support for the customs operations software (ASYCUDA).
-
-Played a key role in the planning and transition to the new CDEPS system, providing the user-side expertise to make the project work.
-
-Earlier Career
-Republika Marketing Agency | Copywriter (2011–2012)
-
-Collaborated with client marketing departments to develop advertising concepts and copy.
-
-Sport Arena | Sport Journalist (2011–2012)
-
-Researched and authored timely articles on various sports topics.
+* **Republika Marketing Agency | Copywriter** (2011–2012)
+    * Collaborated with client marketing departments to develop advertising concepts and copy.
+* **Sport Arena | Sport Journalist** (2011–2012)
+    * Researched and authored timely articles on various sports topics.
