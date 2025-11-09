@@ -8,32 +8,12 @@ I decided to stop being just the user and learn to be the builder.
 I've spent the last two years in a deliberate career pivot, training intensively in the Microsoft ecosystem. I didn't just learn "code"; I learned the specific tools of enterprise IT: MS SQL, C#, and Microsoft Azure.
 I'm not a typical junior. I'm the "bridge" who speaks both languages: I can talk to a customs agent about a process bottleneck and then turn around and discuss the database schema or API endpoint with the development team.
 
-Technical Skills (The "How")
-
-Here's my skill set as a SQL query.sqlSELECTSkill,Category,Experience_LevelFROMLeoNanevski.SkillsWHEREIs_Ready_For_Work = 'True'ORDER BYCategory, Experience_Level DESC;
-
-/*--- QUERY RESULTS ---
-Skill	Category	Experience_Level
-MS SQL	Databases	Foundational
-Database Fundamentals	Databases	Foundational
-Microsoft Azure (In-Prog)	Cloud & Infra	Foundational
-Linux & Shell Scripting	Cloud & Infra	Familiar
-C#	Programming	Foundational
-ASP.NET Web APIs	Programming	Foundational
-JavaScript, HTML, CSS	Programming	Foundational
-Application Support	IT Operations	12+ Years (as SME)
-Incident Resolution & RCA	IT Operations	12+ Years (as SME)
-Ticketing (Jira, Zendesk)	IT Operations	Foundational
-Customs & Logistics Ops	Domain Expertise	Expert (12+ Yrs)
-SOP & Process Improvement	Domain Expertise	Expert (12+ Yrs)
-Stakeholder Communication	Domain Expertise	Expert (12+ Yrs)
-*/		
-
+Technical Skills (The "How")Here's my skill set as a SQL query.sqlSELECTSkill,Category,Experience_LevelFROMLeoNanevski.SkillsWHEREIs_Ready_For_Work = 'True'ORDER BYCategory, Experience_Level DESC;/*--- QUERY RESULTS ---SkillCategoryExperience_LevelMS SQLDatabasesFoundationalDatabase FundamentalsDatabasesFoundationalMicrosoft Azure (In-Prog)Cloud & InfraFoundationalLinux & Shell ScriptingCloud & InfraFamiliarC#ProgrammingFoundationalASP.NET Web APIsProgrammingFoundationalJavaScript, HTML, CSSProgrammingFoundationalApplication SupportIT Operations12+ Years (as SME)Incident Resolution & RCAIT Operations12+ Years (as SME)Ticketing (Jira, Zendesk)IT OperationsFoundationalCustoms & Logistics OpsDomain ExpertiseExpert (12+ Yrs)SOP & Process ImprovementDomain ExpertiseExpert (12+ Yrs)Stakeholder CommunicationDomain ExpertiseExpert (12+ Yrs)*/
 ---
 
-### Technical Education (The Pivot)
+### Education & Technical Training
 
-*   **Azure Microsoft Cloud Administrator** (2024-2025)
+*   **Azure Microsoft Cloud Administrator** (In-Progress, 2024-2025)
     *   *Semos Education* 
 *   **ITOSE - IT Operations and Support Engineer** (Class of 2024)
     *   *Qinshift (formerly Seavus, SEDC)* 
@@ -41,6 +21,7 @@ Stakeholder Communication	Domain Expertise	Expert (12+ Yrs)
 *   **Academy for Web Development** (Class of 2022-2023)
     *   *Qinshift (formerly Seavus, SEDC)* 
     *   *Core Tech:* **C#**, **SQL**, **ASP.NET Web APIs**, JavaScript, HTML, CSS.
+*   **University of St. Cyril and Methodius | Faculty of Psychology** (Class of 2008) 
 
 ---
 
