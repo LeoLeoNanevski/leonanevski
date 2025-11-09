@@ -16,15 +16,32 @@ I'm not a typical junior. I'm the "bridge" who speaks both languages: I can talk
 ---
 
 ### Technical Skills (The "How")
-Here's my skill set as a SQL query.
+Here's a SQL query.
 
-SELECT Skill, Category, Experience_Level FROM LeoNanevski.Skills WHERE Is_Ready_For_Work = 'True' ORDER BY Category, Experience_Level DESC;
+```sql
+SELECT Skill, Category, Experience_Level
+FROM LeoNanevski.Skills
+WHERE Is_Ready_For_Work = 'True'
+ORDER BY Category, Experience_Level DESC;
 
 /* --- QUERY RESULTS ---
 
-Skill Category Experience_Level
-
-MS SQL Databases Foundational Database Fundamentals Databases Foundational Microsoft Azure (In-Prog) Cloud & Infra Foundational Linux & Shell Scripting Cloud & Infra Familiar C# Programming Foundational ASP.NET Web APIs Programming Foundational JavaScript, HTML, CSS Programming Foundational Application Support IT Operations 12+ Years (as SME) Incident Resolution & RCA IT Operations 12+ Years (as SME) Ticketing (Jira, Zendesk) IT Operations Foundational Customs & Logistics Ops Domain Expertise Expert (12+ Yrs) SOP & Process Improvement Domain Expertise Expert (12+ Yrs) Stakeholder Communication Domain Expertise Expert (12+ Yrs) */
+Skill                   Category            Experience_Level
+----------------------- ------------------- --------------------
+MS SQL                  Databases           Foundational
+Database Fundamentals   Databases           Foundational
+Microsoft Azure (In-Prog) Cloud & Infra       Foundational
+Linux & Shell Scripting Cloud & Infra       Familiar
+C#                      Programming         Foundational
+ASP.NET Web APIs        Programming         Foundational
+JavaScript, HTML, CSS   Programming         Foundational
+Application Support     IT Operations       12+ Years (as SME)
+Incident Resolution & RCA IT Operations       12+ Years (as SME)
+Ticketing (Jira, Zendesk) IT Operations       Foundational
+Customs & Logistics Ops Domain Expertise    Expert (12+ Yrs)
+SOP & Process Improvement Domain Expertise    Expert (12+ Yrs)
+Stakeholder Communication Domain Expertise    Expert (12+ Yrs)
+*/
 
 
 ---
