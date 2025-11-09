@@ -35,9 +35,9 @@ Linux & Shell Scripting   Cloud & Infra       Familiar
 C#                        Programming         Foundational
 ASP.NET Web APIs          Programming         Foundational
 JavaScript, HTML, CSS     Programming         Foundational
-Application Support       IT Operations       12+ Years (as SME)
-Incident Resolution & RCA IT Operations       12+ Years (as SME)
-Ticketing (Jira, Zendesk) IT Operations       Foundational
+Application Support       IT Operations       1+ Years
+Incident Resolution & RCA IT Operations       1+ Years
+Ticketing (Jira, Zendesk) IT Operations       1+ Years
 Customs & Logistics Ops   Domain Expertise    Expert (12+ Yrs)
 SOP & Process Improvement Domain Expertise    Expert (12+ Yrs)
 Stakeholder Communication Domain Expertise    Expert (12+ Yrs)
