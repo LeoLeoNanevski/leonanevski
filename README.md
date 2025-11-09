@@ -1,15 +1,5 @@
-Leo Nanevski - Professional 'README'
-Contact: +389 75 468 393 | leo_nanevski_87@hotmail.com | linkedin.com/in/leo-nanevski/
-
-Professional Summary (The "Why")
-
-Hello. I'm Leo. For over 12 years, I was the person on the ground in high-pressure logistics hubs (like TAV Airports and DHL Express).1 I was the end-user for the exact kind of software that IT companies build: I managed the 24/7 incidents, supported the software transitions (like ASYCUDA and CDEPS) 1, and saw the "bug" from the operational side.
-I decided to stop being just the user and learn to be the builder.
-I've spent the last two years in a deliberate career pivot, training intensively in the Microsoft ecosystem. I didn't just learn "code"; I learned the specific tools of enterprise IT: MS SQL, C#, and Microsoft Azure.
-I'm not a typical junior. I'm the "bridge" who speaks both languages: I can talk to a customs agent about a process bottleneck and then turn around and discuss the database schema or API endpoint with the development team.
-
-Technical Skills (The "How")Here's my skill set as a SQL query.sqlSELECTSkill,Category,Experience_LevelFROMLeoNanevski.SkillsWHEREIs_Ready_For_Work = 'True'ORDER BYCategory, Experience_Level DESC;/*--- QUERY RESULTS ---SkillCategoryExperience_LevelMS SQLDatabasesFoundationalDatabase FundamentalsDatabasesFoundationalMicrosoft Azure (In-Prog)Cloud & InfraFoundationalLinux & Shell ScriptingCloud & InfraFamiliarC#ProgrammingFoundationalASP.NET Web APIsProgrammingFoundationalJavaScript, HTML, CSSProgrammingFoundationalApplication SupportIT Operations12+ Years (as SME)Incident Resolution & RCAIT Operations12+ Years (as SME)Ticketing (Jira, Zendesk)IT OperationsFoundationalCustoms & Logistics OpsDomain ExpertiseExpert (12+ Yrs)SOP & Process ImprovementDomain ExpertiseExpert (12+ Yrs)Stakeholder CommunicationDomain ExpertiseExpert (12+ Yrs)*/
----
+Leo Nanevski - Professional 'README'Contact: +389 75 468 393 | leo_nanevski_87@hotmail.com | linkedin.com/in/leo-nanevski/Professional Summary (The "Why")Hello. I'm Leo. For over 12 years, I was the person on the ground in high-pressure logistics hubs (like TAV Airports and DHL Express).1 I was the end-user for the exact kind of software that IT companies build: I managed the 24/7 incidents, supported the software transitions (like ASYCUDA and CDEPS) 1, and saw the "bug" from the operational side.I decided to stop being just the user and learn to be the builder.I've spent the last two years in a deliberate career pivot, training intensively in the Microsoft ecosystem. I didn't just learn "code"; I learned the specific tools of enterprise IT: MS SQL, C#, and Microsoft Azure.1I'm not a typical junior. I'm the "bridge" who speaks both languages: I can talk to a customs agent about a process bottleneck and then turn around and discuss the database schema or API endpoint with the development team.Technical Skills (The "How")Here's my skill set as a SQL query.sqlSELECTSkill,Category,Experience_LevelFROMLeoNanevski.SkillsWHEREIs_Ready_For_Work = 'True'ORDER BYCategory, Experience_Level DESC;/*--- QUERY RESULTS ---SkillCategoryExperience_LevelMS SQLDatabasesFoundationalDatabase FundamentalsDatabasesFoundationalMicrosoft Azure (In-Prog)Cloud & InfraFoundationalLinux & Shell ScriptingCloud & InfraFamiliarC#ProgrammingFoundationalASP.NET Web APIsProgrammingFoundationalJavaScript, HTML, CSSProgrammingFoundationalApplication SupportIT Operations12+ Years (as SME)Incident Resolution & RCAIT Operations12+ Years (as SME)Ticketing (Jira, Zendesk)IT OperationsFoundationalCustoms & Logistics OpsDomain ExpertiseExpert (12+ Yrs)SOP & Process ImprovementDomain ExpertiseExpert (12+ Yrs)Stakeholder CommunicationDomain ExpertiseExpert (12+ Yrs)*/
+-----
 
 ### Education & Technical Training
 
@@ -23,7 +13,7 @@ Technical Skills (The "How")Here's my skill set as a SQL query.sqlSELECTSkill,Ca
     *   *Core Tech:* **C#**, **SQL**, **ASP.NET Web APIs**, JavaScript, HTML, CSS.
 *   **University of St. Cyril and Methodius | Faculty of Psychology** (Class of 2008) 
 
----
+-----
 
 ### Professional Experience (The Foundation)
 
@@ -40,19 +30,18 @@ Technical Skills (The "How")Here's my skill set as a SQL query.sqlSELECTSkill,Ca
 *   Developed and enforced Standard Operating Procedures (SOPs) for incident handling.
 
 **DHL Express Macedonia | Customs Clearance, GTW OPS Agent** (2019–2022) 
-*   Was selected as the subject-matter expert (SME) to **support the company-wide implementation of the new web-based customs system (CDEPS)**.
+*   Was selected as the subject-matter expert (SME) to **support the company-wide implementation of the new web-based customs system (CDEPS)**. 
 *   Acted as the liaison between the operations team and the IT/implementation team, helping train colleagues and validate the new workflows.
 
 **Viator & Vector | Custom Forwarding Agent / Commercialist** (2012–2019) 
-*   Acted as the local power user and **first-line support for the customs operations software (ASYCUDA)**.
-*   Played a key role in the **planning and transition to the new CDEPS system**, providing the user-side expertise to make the project work.
+*   Acted as the local power user and **first-line support for the customs operations software (ASYCUDA)**. 
+*   Played a key role in the **planning and transition to the new CDEPS system**, providing the user-side expertise to make the project work. 
 
----
+-----
 
-### Earlier Career & Education
+### Earlier Career
 
 *   **Republika Marketing Agency | Copywriter** (2011–2012) 
     *   Collaborated with client marketing departments to develop advertising concepts and copy.
 *   **Sport Arena | Sport Journalist** (2011–2012) 
     *   Researched and authored timely articles on various sports topics.
-*   **University of St. Cyril and Methodius | Faculty of Psychology** (Class of 2008)
