@@ -43,6 +43,8 @@ SOP & Process Improvement Domain Expertise    Expert (12+ Yrs)
 Stakeholder Communication Domain Expertise    Expert (12+ Yrs)
 */
 
+```
+
 ---
 
 ### Education & Technical Training
