@@ -26,19 +26,19 @@ ORDER BY Category, Experience_Level DESC;
 
 /* --- QUERY RESULTS ---
 
-Skill                   Category            Experience_Level
------------------------ ------------------- --------------------
-MS SQL                  Databases           Foundational
-Database Fundamentals   Databases           Foundational
+Skill                     Category            Experience_Level
+-----------------------   ------------------- --------------------
+MS SQL                    Databases           Foundational
+Database Fundamentals     Databases           Foundational
 Microsoft Azure (In-Prog) Cloud & Infra       Foundational
-Linux & Shell Scripting Cloud & Infra       Familiar
-C#                      Programming         Foundational
-ASP.NET Web APIs        Programming         Foundational
-JavaScript, HTML, CSS   Programming         Foundational
-Application Support     IT Operations       12+ Years (as SME)
-Incident Resolution & RCA IT Operations       12+ Years (as SME)
+Linux & Shell Scripting   Cloud & Infra       Familiar
+C#                        Programming         Foundational
+ASP.NET Web APIs          Programming         Foundational
+JavaScript, HTML, CSS     Programming         Foundational
+Application Support       IT Operations       12+ Years (as SME)
+Incident Resolution & RCA   IT Operations       12+ Years (as SME)
 Ticketing (Jira, Zendesk) IT Operations       Foundational
-Customs & Logistics Ops Domain Expertise    Expert (12+ Yrs)
+Customs & Logistics Ops   Domain Expertise    Expert (12+ Yrs)
 SOP & Process Improvement Domain Expertise    Expert (12+ Yrs)
 Stakeholder Communication Domain Expertise    Expert (12+ Yrs)
 */
