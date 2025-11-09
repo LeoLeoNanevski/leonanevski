@@ -49,7 +49,7 @@ Stakeholder Communication Domain Expertise    Expert (12+ Yrs)
 
 ### Education & Technical Training
 
-* **Azure Microsoft Cloud Administrator** (In-Progress, 2024-2025)
+* **Azure Microsoft Cloud Administrator** (2024-2025)
     * *Semos Education*
 * **ITOSE - IT Operations and Support Engineer** (Class of 2024)
     * *Qinshift (formerly Seavus, SEDC)*
