@@ -36,7 +36,7 @@ C#                        Programming         Foundational
 ASP.NET Web APIs          Programming         Foundational
 JavaScript, HTML, CSS     Programming         Foundational
 Application Support       IT Operations       12+ Years (as SME)
-Incident Resolution & RCA   IT Operations       12+ Years (as SME)
+Incident Resolution & RCA IT Operations       12+ Years (as SME)
 Ticketing (Jira, Zendesk) IT Operations       Foundational
 Customs & Logistics Ops   Domain Expertise    Expert (12+ Yrs)
 SOP & Process Improvement Domain Expertise    Expert (12+ Yrs)
