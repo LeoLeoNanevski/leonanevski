@@ -54,7 +54,7 @@ Stakeholder Communication Domain Expertise    Expert (12+ Yrs)
     * *Semos Education*
 * **ITOSE - IT Operations and Support Engineer** (Class of 2024)
     * *Qinshift (formerly Seavus, SEDC)*
-    * *Core Tech:* Linux, **MS SQL**, Networking, **Microsoft Azure**, Docker, Shell Scripts.
+    * *Core Tech:* Linux, **MS SQL**, Networking, **Microsoft Azure**, Shell Scripts.
 * **Academy for Web Development** (Class of 2022-2023)
     * *Qinshift (formerly Seavus, SEDC)*
     * *Core Tech:* **C#**, **SQL**, **ASP.NET Web APIs**, JavaScript, HTML, CSS.
@@ -67,7 +67,7 @@ Stakeholder Communication Domain Expertise    Expert (12+ Yrs)
 #### `// --- My IT Career ---`
 
 **INVOLVE Development (Olion) | Data Entry & Tech. and Customer Support Specialist** (2025–Current)
-* My first dedicated IT role. I'm the first point of contact for technical support, managing issues via Jira.
+* My first dedicated IT role. I'm the first point of contact for technical support, managing issues via Zendesk and Jira.
 * I apply structured problem-solving to diagnose application issues, document bugs, and escalate to senior engineers.
 
 #### `// --- My Logistics Career (Where I was the "IT Bridge") ---`
