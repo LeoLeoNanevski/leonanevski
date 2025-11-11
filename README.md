@@ -5,11 +5,11 @@
 
 ### Professional Summary (The "Why")
 
-Hello. I'm Leo. For over 12 years, I was the person on the ground in high-pressure logistics hubs (like TAV Airports and DHL Express). I was the end-user for the exact kind of software that IT companies build: I managed the 24/7 incidents, supported the software transitions (like ASYCUDA and CDEPS), and saw the "bug" from the operational side.
+Hello. I'm Leo. For over 12 years, I was the person on the ground in high-pressure logistics hubs (like TAV Airports, DHL Express and Viator & Vektor). I was the end-user for the exact kind of software that IT companies build, like proprietary in-house logistics systems, MS Dynamics 365, etc. I managed the 24/7 incidents, supported the software transitions (like ASYCUDA and CDEPS), and saw the "bug" from the operational side.
 
 I decided to stop being just the user and learn to be the builder.
 
-I've spent the last two years in a deliberate career pivot, training intensively in the Microsoft ecosystem. I didn't just learn "code"; I learned the specific tools of enterprise IT: **MS SQL**, **C#**, and **Microsoft Azure**.
+I've spent the last two years in a deliberate career pivot, training intensively in the Microsoft ecosystem. I didn't just learn "code"; I learned the specific tools of enterprise IT: **MS SQL**, **C#**, **Microsoft Azure** and **Dynamics 365**.
 
 I'm not a typical junior. I'm the "bridge" who speaks both languages: I can talk to a customs agent about a process bottleneck and then turn around and discuss the database schema or API endpoint with the development team.
 
@@ -32,6 +32,7 @@ MS SQL                    Databases           Foundational
 Database Fundamentals     Databases           Foundational
 Microsoft Azure (In-Prog) Cloud & Infra       Foundational
 Linux & Shell Scripting   Cloud & Infra       Familiar
+Microsoft Dynamics 365    Enterprise Apps     Solid Experience
 C#                        Programming         Foundational
 ASP.NET Web APIs          Programming         Foundational
 JavaScript, HTML, CSS     Programming         Foundational
